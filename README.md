@@ -24,6 +24,3 @@ NOTE You can also access this same folder by navigating this hidden folder
 
 #####################################################################################
 
-Here are the 80 currently supported systems.
-
-3do, amiga, amigacd32, amstradcpc, arcade, atari2600, atari5200, atari7800, atarijaguar, atarilynx, atarist, auto-allgames, auto-favorites, auto-lastplayed, c64, colecovision, cps1, cps2, cps3, daphne, dreamcast, famicom, fba, fds, gameandwatch, gamegear, gamegearhacks, gb, gba, gbahacks, gbc, gbhacks, genesis, genesishacks, intellivision, kodi, mame, mastersystem, megacd, megadrive, megadrive-japan, megadrivehacks, msx, msx2, n64, nds, neogeo, nes, neshacks, ngp, ngpc, pc, pcengine, pcenginecd, pixel, ports, psp, pspminis, psx, retropie, saturn, scummvm, sega32x, segacd, sfc, sg-1000, sgfx, snes, sneshacks, tg16, tg16cd, vectrex, vic20, videopac, videopac2, virtualboy, wonderswan, wonderswancolor, zmachine, zxspectrum
