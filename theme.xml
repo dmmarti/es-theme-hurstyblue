@@ -103,7 +103,7 @@ version         1.0
       </text>
       <textlist name="gamelist">
          <pos>0.01 0.175</pos>
-         <size>0.21 0.7</size>
+         <size>0.21 0.71</size>
          <alignment>left</alignment>
       </textlist>
    </view>
