@@ -138,7 +138,7 @@ version         1.0
          <pos>0.465 0.6</pos>
          <zIndex>5</zIndex>
          <maxSize>0.36 0.48</maxSize>
-         <delay>1.00</delay>
+         <delay>2.00</delay>
          <showSnapshotNoVideo>true</showSnapshotNoVideo>
          <showSnapshotDelay>true</showSnapshotDelay>
       </video>
